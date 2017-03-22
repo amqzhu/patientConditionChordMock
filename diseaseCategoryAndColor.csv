@@ -1,0 +1,21 @@
+Category,Name,Color
+Cardiovascular,Coronary heart disease,#ff5c33
+Cardiovascular,Peripheral arterial disease,#ff3300
+Cardiovascular,Stroke,#cc2900
+Cancer,Lung,#0099ff
+Cancer,Skin,#0066ff
+Cancer,Breast,#3366ff
+Cancer,Prostate,#3333cc
+Injury,Concussion,#c68c53
+Injury,Torn ACL,#996633
+Injury,Torn Achilles tendon,#604020
+Infection,Influenza,#808080 
+Endocrine,Diabetes,#00e600
+Endocrine,Hyperthyroidism,#009900
+Mental or Nervous System,Depression,#b300b3
+Mental or Nervous System,Anxiety,#990099
+Mental or Nervous System,Epilepsy,#ac39ac
+Mental or Nervous System,Amnesia,#732673
+Risk Factors,High Cholesterol,#ffa64d
+Risk Factors,High Blood Pressure,#ff8533
+Risk Factors,Overweight,#e65c00
