@@ -132,7 +132,7 @@ d3.csv("debt.csv", type, function(error, data) {
         .style("fill", function(d) { return fill(countryByIndex[d.index].risk); })
         .attr("id", function(d, i) { return "group" + d.index + "-" + j; })
         .attr("d", arc)
-      .append("title")
+        .append("title")
         .text(function(d) { return countryByIndex[d.index].name + " " + (j ? "owes" : "is owed") + " $" + format(d.value) + "B."; });
 
     // Add the group label (but only for large groups, where it will fit).
@@ -140,10 +140,12 @@ d3.csv("debt.csv", type, function(error, data) {
     g.append("text")
         .attr("x", 6)
         .attr("dy", 15)
-        .filter(function(d) { return d.value > 110; })
+		.filter(function(d) { return d.value > 110; })
       .append("textPath")
         .attr("xlink:href", function(d) { return "#group" + d.index + "-" + j; })
         .text(function(d) { return countryByIndex[d.index].name; });
+		
+	
   });
 });
 

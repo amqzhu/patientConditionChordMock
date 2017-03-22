@@ -1,0 +1,21 @@
+,Coronary heart disease,Peripheral arterial disease,Stroke,Lung,Skin,Breast,Prostate,Concussion,Torn ACL,Torn Achilles tendon,Influenza,Diabetes,Hyperthyroidism,Depression,Anxiety,Epilepsy,Amnesia,High Cholesterol,High Blood Pressure,Overweight
+Coronary heart disease,0,1,1,1,1,0,1,0,0,0,1,4,0,2,2,0,0,5,4,2
+Peripheral arterial disease,1,0,1,0,0,0,0,0,0,0,1,2,0,0,1,0,0,0,2,0
+Stroke,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1
+Lung,1,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0
+Skin,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,0,0,0,1,0
+Breast,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0
+Prostate,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+Concussion,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,1,0,0,0
+Torn ACL,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0,0,0,0
+Torn Achilles tendon,0,0,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0
+Influenza,1,1,0,2,1,0,1,0,0,0,3,2,1,0,0,1,0,0,1,2
+Diabetes,4,2,0,0,1,0,0,0,0,0,2,0,0,1,2,0,0,4,2,5
+Hyperthyroidism,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1
+Depression,2,0,1,0,1,2,1,0,1,0,0,1,0,0,0,0,0,1,0,1
+Anxiety,2,1,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,1,2,0
+Epilepsy,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Amnesia,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+High Cholesterol,5,0,1,0,0,0,0,0,0,0,0,4,0,1,1,0,0,0,1,2
+High Blood Pressure,4,2,1,1,1,1,1,0,0,0,1,2,1,0,2,1,0,1,0,2
+Overweight,2,0,1,0,0,0,0,0,0,0,2,5,1,1,0,0,0,2,2,0
